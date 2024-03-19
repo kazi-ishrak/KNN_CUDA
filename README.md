@@ -60,7 +60,7 @@ Contributions to the KNN_CUDA project are welcome. Here's how you can contribute
 ## Contributors
 We would like to extend our thanks to all the contributors to the KNN_CUDA project:
 
-@kazi-ishrak - project creator and main contributor
+- @kazi-ishrak - project creator and main contributor
 
 ## Contact
 If you have any questions or feedback, please contact me at your-email@example.com.
