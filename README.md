@@ -26,6 +26,7 @@ To get started with the KNN_CUDA project, clone the repository to your local mac
 ```bash
 git clone https://github.com/kazi-ishrak/KNN_CUDA.git
 cd KNN_CUDA
+```
 
 ## Usage
 
