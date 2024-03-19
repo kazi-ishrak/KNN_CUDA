@@ -51,11 +51,11 @@ You will be prompted to enter the number of reference points, the number of test
 Contributions to the KNN_CUDA project are welcome. Here's how you can contribute:
 
 ## Fork the repository.
-Create a new branch (git checkout -b feature_branch).
-Commit your changes (git commit -am 'Add some feature').
-Push to the branch (git push origin feature_branch).
-Open a Pull Request.
-Please make sure to update tests as appropriate.
+- Create a new branch (git checkout -b feature_branch).
+- Commit your changes (git commit -am 'Add some feature').
+- Push to the branch (git push origin feature_branch).
+- Open a Pull Request.
+- Please make sure to update tests as appropriate.
 
 ## Contributors
 We would like to extend our thanks to all the contributors to the KNN_CUDA project:
